@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Unisys</groupId>
 	<artifactId>DesafioUnisysWeb</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
